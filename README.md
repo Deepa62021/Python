@@ -2,7 +2,7 @@
 Python Projects
 
 **1. Create a greeting for your program.**
-### ## Hi, Welcome to the Band Name Generator
+### print(" Hi, Welcome to the Band Name Generator.")
 **2. Ask the user for the city that they grew up in.**
 ### city_name = input("What's the name of the city you grew up in?: \n")
 **3. Ask the user for the name of a pet.**
